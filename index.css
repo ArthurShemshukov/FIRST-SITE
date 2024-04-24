@@ -1,0 +1,20 @@
+h1 {
+    font-size: 30px;
+    color:brown;
+}
+
+p {
+    font-size: larger;
+    color:antiquewhite;
+}
+
+button {
+    font-size: 15px;
+    color: blueviolet;
+    width: 100px;
+    height: 20px;
+}
+
+.output {
+    color: rgb(93, 54, 54);
+}
